@@ -16,5 +16,14 @@
     "Fragments": "8,000",
     "Comment": "Dobra opcja solo",
     "Tooltip": "Zwiększona prędkość"
+  },
+  {
+    "Map": "2-3",
+    "Name": "Twoja stara",
+    "HP": 18000000,
+    "Shield": 9000000,
+    "Fragments": "8,000",
+    "Comment": "Powodzenia",
+    "Tooltip": "Ścierą cie napierdala, śmieciu"
   }
 ]
