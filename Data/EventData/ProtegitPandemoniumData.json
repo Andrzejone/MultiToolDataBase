@@ -1,29 +1,65 @@
 [
   {
-    "Map": "2-1",
-    "Name": "Boss Kristallon",
-    "HP": 30000000,
-    "Shield": 15000000,
-    "Fragments": "15,000",
-    "Comment": "Bardzo opłacalny w grupie",
+    "Map": "2-2",
+    "Name": "Protegit",
+    "HP": 18000,
+    "Shield": 15000,
+    "Fragments": "1-3",
+    "Comment": "4u",
     "Tooltip": "Strzela EMP co 30s"
   },
   {
-    "Map": "2-2",
-    "Name": "Uber Sibelon",
-    "HP": 18000000,
-    "Shield": 9000000,
-    "Fragments": "8,000",
-    "Comment": "Dobra opcja solo",
+    "Map": "2-3",
+    "Name": "Protegit",
+    "HP": 33000,
+    "Shield": 27500,
+    "Fragments": "3-5",
+    "Comment": "8u",
     "Tooltip": "Zwiększona prędkość"
   },
   {
-    "Map": "2-3",
+    "Map": "2-4",
     "Name": "Twoja stara",
-    "HP": 18000000,
-    "Shield": 9000000,
-    "Fragments": "8,000",
-    "Comment": "Powodzenia",
+    "HP": 63000,
+    "Shield": 52500,
+    "Fragments": "5-10",
+    "Comment": "16u",
+    "Tooltip": "Ścierą cie napierdala, śmieciu"
+  },
+  {
+    "Map": "2-5",
+    "Name": "Twoja stara",
+    "HP": 90000,
+    "Shield": 75000,
+    "Fragments": "8-15",
+    "Comment": "24u",
+    "Tooltip": "Ścierą cie napierdala, śmieciu"
+  },
+  {
+    "Map": "2-6",
+    "Name": "Twoja stara",
+    "HP": 120000,
+    "Shield": 100000,
+    "Fragments": "10-20",
+    "Comment": "32u",
+    "Tooltip": "Ścierą cie napierdala, śmieciu"
+  },
+  {
+    "Map": "2-7",
+    "Name": "Twoja stara",
+    "HP": 150000,
+    "Shield": 125000,
+    "Fragments": "13-25",
+    "Comment": "40u",
+    "Tooltip": "Ścierą cie napierdala, śmieciu"
+  },
+  {
+    "Map": "2-8",
+    "Name": "Twoja stara",
+    "HP": 165000,
+    "Shield": 142500,
+    "Fragments": "15-30",
+    "Comment": "48u",
     "Tooltip": "Ścierą cie napierdala, śmieciu"
   }
 ]
